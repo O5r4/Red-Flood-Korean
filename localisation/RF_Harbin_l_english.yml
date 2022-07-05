@@ -1,9 +1,9 @@
 ﻿l_english:
 #Harbin City Parties
-HAR_vanguard_socialism_party:0 "RSDRP"
+HAR_vanguard_socialism_party:0 "러시아 사회민주노동당"
 HAR_popular_socialism_party:0 "Sindikalisty"
 HAR_anarchism_party:0 "Individualsty"
-HAR_revisionist_socialism_party:0 "PSR/RSDRP (단주의)"
+HAR_revisionist_socialism_party:0 "사회주의혁명당/사회민주노동당 (단주의)"
 HAR_progressivism_party:0 "TNSP"
 HAR_liberalism_party:0 "카데티"
 HAR_conservatism_party:0 "NDS"
@@ -198,7 +198,7 @@ HAR_join_the_manchus:0 "Proclaim the Free Syndicates"
 HAR.1.t:0 "The Harbin Directorate Election"
 HAR.1.desc:0 "“The Harbin City Election is over! The final votes are being counted. And the winner is...”"
 HAR.1.a:0 "카데트! Pavel Milyukov!"
-HAR.1.b:0 "대중주의자! 베네딕트 Myakotin!"
+HAR.1.b:0 "대중주의자! 베네딕트 미아코틴!"
 HAR.1.c:0 "주교! 멜레티 자바롭스키!"
 HAR.1.d:0 "폭탄! Grigory Fajda!"
 #YOU TRAITOR!
